@@ -476,60 +476,72 @@ section .title::after{
     --progress-width: 90%;
 }
 .skills-content .right .css::before{
-    width: 75%;
-    --progress-width: 75%;
+    width: 80%;
+    --progress-width: 80%;
 }
 .skills-content .right .js::before{
-    width: 70%;
-    --progress-width: 70%;
+    width: 90%;
+    --progress-width: 90%;
 }
 .skills-content .right .php::before{
-    width: 50%;
-    --progress-width: 50%;
+    width: 100%;
+    --progress-width: 100%;
 }
 .skills-content .right .flutter::before{
-    width: 85%;
-    --progress-width: 85%;
+    width: 90%;
+    --progress-width: 90%;
 }
 .skills-content .right .mongodB::before{
-    width: 70%;
-    --progress-width: 70%;
+    width: 90%;
+    --progress-width: 90%;
 }
 .skills-content .right .dart::before{
-    width: 70%;
-    --progress-width: 70%;
+    width: 90%;
+    --progress-width: 90%;
 }
 .skills-content .right .firebase::before{
-    width: 75%;
-    --progress-width: 75%;
+    width: 100%;
+    --progress-width: 100%;
 }
 .skills-content .right .c::before{
-    width: 60%;
-    --progress-width: 60%;
+    width: 90%;
+    --progress-width: 90%;
 }
 .skills-content .right .java::before{
-    width: 65;
-    --progress-width: 65%;
+    width: 80;
+    --progress-width: 80%;
 }
 .skills-content .right .python::before{
-    width: 60%;
-    --progress-width: 60%;
+    width: 75%;
+    --progress-width: 75%;
 }
 .skills-content .right .xd::before{
     width: 80%;
     --progress-width: 80%;
 }
 .skills-content .right .figma::before{
-    width: 80%;
-    --progress-width: 80%;
+    width: 70%;
+    --progress-width: 70%;
 }
 .skills-content .right .angular::before{
-    width: 40%;
-    --progress-width: 40%;
+    width: 90%;
+    --progress-width: 90%;
 }
 .skills-content .right .net::before{
-    width: 30%;
-    --progress-width: 30%;
+    width: 90%;
+    --progress-width: 90%;
+}
+.skills-content .right .net11::before{
+    width: 90%;
+    --progress-width: 90%;
+}
+.skills-content .right .net22::before{
+    width: 90%;
+    --progress-width: 90%;
+}
+.skills-content .right .net33::before{
+    width: 100%;
+    --progress-width: 100%;
 }
 .click-me {
     color: blue; 
