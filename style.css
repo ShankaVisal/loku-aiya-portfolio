@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: #252d3d;
+    /* color: #252d3d; */
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -257,7 +257,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: #252d3d;
+    /* color: #252d3d; */
     font-weight: 500;
 }
 .home .home-content a{
