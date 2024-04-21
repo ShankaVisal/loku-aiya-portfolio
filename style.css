@@ -477,7 +477,7 @@ section .title::after{
 }
 .skills-content .right .css::before{
     width: 80%;
-    --progress-width: 80%;
+    --progress-width: 90%;
 }
 .skills-content .right .js::before{
     width: 90%;
